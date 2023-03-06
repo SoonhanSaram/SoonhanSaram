@@ -3,7 +3,7 @@
 
 # Summary
 
-![](https://img.shields.io/badge/Language-Dart-blue) https://img.shields.io/badge/github-GIVEME--STAR-red
+![](https://img.shields.io/badge/Language-Dart-blue) ![](https://img.shields.io/badge/Language-JavaScript-blue) 
 
 ### :walking:  
 
