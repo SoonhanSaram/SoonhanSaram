@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=Welcome%20To%20Soonhansaram&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20To%20Soonhansaram&fontSize=60)
 
 
 # Summary
