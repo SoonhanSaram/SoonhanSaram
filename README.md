@@ -13,7 +13,7 @@ MY STACK
 ![](https://img.shields.io/badge/Language-Dart-blue) ![](https://img.shields.io/badge/Language-JavaScript-blue) 
 
 
-![](https://img.shields.io/badge/DB-mysql-red) ![](https://img.shields.io/badge/DB-mongoDB-red)
+![](https://img.shields.io/badge/DB-mysql-red) ![](https://img.shields.io/badge/DB-mongoDB-red) ![](https://img.shields.io/badge/DB-firebase-red)
 
 
 ![](https://img.shields.io/badge/stack-nodeJs-yellow) ![](https://img.shields.io/badge/stack-reactJS-yellow) ![](https://img.shields.io/badge/stack-html-yellow) ![](https://img.shields.io/badge/stack-css-yellow) ![](https://img.shields.io/badge/stack-WebSocket-yellow)
