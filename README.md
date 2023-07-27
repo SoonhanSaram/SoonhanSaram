@@ -5,8 +5,7 @@
 notion 주소
 
 
-[이력서 & 포트폴리오]((https://www.notion.so/_-e202da2f55d14a55946f546654d5f50a))
-
+[이력서 & 포트폴리오][((https://www.notion.so/_-e202da2f55d14a55946f546654d5f50a))]
 MY STACK 
 
 
