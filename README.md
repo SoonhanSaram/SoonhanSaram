@@ -10,7 +10,7 @@ notion 주소
 프로그래머스 스킬체크
 
 
-!(https://career.programmers.co.kr/packs/media/images/img-badge-skill-1-3ddce02a.png)(https://career.programmers.co.kr/resumes/763147/skill_checks/507649/interview_view)
+[![](https://career.programmers.co.kr/packs/media/images/img-badge-skill-1-3ddce02a.png)]https://career.programmers.co.kr/resumes/763147/skill_checks/507649/interview_view "프로그래머스 스킬 체크 레빌 1")
 
 MY STACK 
 
