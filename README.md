@@ -7,6 +7,9 @@ notion 주소
 
 [이력서 & 포트폴리오](https://www.notion.so/_-e9ebc12e9f0e458c8ebf6a085ac4a6e0)
 
+프로그래머스 스킬체크
+![](https://career.programmers.co.kr/packs/media/images/img-badge-skill-1-3ddce02a.png)
+
 MY STACK 
 
 
