@@ -12,6 +12,9 @@ notion 주소
 
 ![](https://career.programmers.co.kr/packs/media/images/img-badge-skill-1-3ddce02a.png)
 
+더 나은 개발자가 되기위한 공부
+![](https://www.notion.so/4cef5eaf30e5423a8a90a282ae9d22f5?v=0576d6f84f694fecb9294024de423828&pvs=4)
+
 MY STACK 
 
 
