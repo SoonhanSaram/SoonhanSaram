@@ -26,7 +26,7 @@
 
 ## 더 나은 개발자가 되기위한 공부
 
-[![Study]](https://www.notion.so/4cef5eaf30e5423a8a90a282ae9d22f5?v=8c9488c01d8a422ab871013e022d403f&pvs=4)
+[![(https://www.notion.so/4cef5eaf30e5423a8a90a282ae9d22f5?v=8c9488c01d8a422ab871013e022d403f&pvs=4)]](https://www.notion.so/4cef5eaf30e5423a8a90a282ae9d22f5?v=8c9488c01d8a422ab871013e022d403f&pvs=4)
 
 ### :walking:  
 
