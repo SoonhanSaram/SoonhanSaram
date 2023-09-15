@@ -29,7 +29,7 @@
 [![공부DB 바로가기](https://github.com/SoonhanSaram/SSRpractice/assets/115523539/d13b1516-064a-498a-9129-82fdea5cf7d0)](https://www.notion.so/4cef5eaf30e5423a8a90a282ae9d22f5?v=684054b65f6f4d5f85e114226a2913dc&pvs=4)
 
 <a href="https://www.notion.so/4cef5eaf30e5423a8a90a282ae9d22f5?v=684054b65f6f4d5f85e114226a2913dc&pvs=4">
-  <img src="https://github.com/SoonhanSaram/SSRpractice/assets/115523539/d13b1516-064a-498a-9129-82fdea5cf7d0" alt="공부DB 바로가기">
+  <img src="https://github.com/SoonhanSaram/SSRpractice/assets/115523539/d13b1516-064a-498a-9129-82fdea5cf7d0" alt="공부DB 바로가기" onclick="window.location.href = 'https://www.notion.so/4cef5eaf30e5423a8a90a282ae9d22f5?v=684054b65f6f4d5f85e114226a2913dc&pvs=4';">
 </a>
 
 
