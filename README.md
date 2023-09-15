@@ -26,7 +26,9 @@
 
 ## 더 나은 개발자가 되기위한 공부
 
-![[공부 내용 정리](https://github.com/SoonhanSaram/SSRpractice/assets/115523539/d13b1516-064a-498a-9129-82fdea5cf7d0)](https://www.notion.so/4cef5eaf30e5423a8a90a282ae9d22f5?v=684054b65f6f4d5f85e114226a2913dc)
+<a href="https://github.com/SoonhanSaram/SSRpractice/assets/115523539/d13b1516-064a-498a-9129-82fdea5cf7d0">
+  <img src="https://github.com/SoonhanSaram/SSRpractice/assets/115523539/d13b1516-064a-498a-9129-82fdea5cf7d0" alt="이미지 대체 텍스트">
+</a>
 
 
 ### :walking:  
